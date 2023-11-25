@@ -1,0 +1,169 @@
+/* BOX DIMINSION */
+/* div{
+    
+    height: 500px;
+    width: 200px;
+    background-color: wheat;
+}
+
+p{
+    width: 20%;
+} */
+
+/* Limiting width */
+
+/* td.description{
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+
+/* Limiting Hieght */
+
+/* h2, p {
+    width: 400px;
+    font-size: 90%;
+    line-height: 1.2em;
+}
+h2 {
+    color: #0088dd;
+    border-bottom: 1px solid #0088dd;
+}
+p{
+    min-height: 100px;
+    max-height: 30px;
+    border: 1px solid red;
+} */
+
+/* Overflowing Content */
+
+/* p{
+    max-height: 50px;
+    border: 1px solid red;
+    overflow: scroll;
+} */
+
+/* Border width  */
+
+/* p{
+    border-style: solid;
+    border-top-width: 5px;
+    border-bottom-width: 10px;
+    border-width: 1px 4px 8px 12px;
+} */
+/* Border Style */
+/* solid, dashed, double, groove, inset, outset, ridge etc */
+
+/* p{
+    border-style: dashed;
+} */
+
+/* Border color */
+/* 
+p{
+    border-style: solid;
+    border-color: red;
+} */
+
+/* Border shorthand */
+/* p{
+    border: 12px solid red;
+} */
+
+/* Pading */
+/* p{
+    border:2px solid red ;
+    padding: 10px;
+    padding-left: ;
+} */
+ 
+/* MArgin */
+/* p{
+    border: 2px solid black;
+    margin: 2px 4px 50px 10px;
+    margin-top: 100px;
+} */
+/* #p2{
+    margin-top: 20px;
+} */
+
+/* Centering Content */
+
+/* p{
+    border: 1px solid red;
+    width: 300px;
+    padding: 50px;
+}
+.example {
+    margin: 10px auto 10px auto;
+    text-align: left;
+} */
+/* .example {
+    margin-left: auto;
+    margin-right: auto;
+} */
+
+/* Change Inline Block */
+/* li{
+    display: inline;
+    margin-right: 10px;
+
+}
+ li.coming-soon {
+    display: none;
+} */
+
+/* Hiding Boxes */
+/* li{
+    display: inline;
+    margin-right: 10px;
+
+}
+ li.coming-soon {
+    visibility: hidden;
+} */
+
+/* Border Images */
+
+/* .one{
+    border: 2px; 0px solid transparent ;
+    padding: 10px;
+    border-image: url(./assests/dot.jpg) 20 round;
+} */
+
+/* Box Shadow */
+/* .one{
+    width: 100px;
+    box-shadow: -5px -5px rgb(25, 18, 98);
+} */
+
+/*  Rounded Conrners  */
+
+/* p{
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border: 2px solid rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: black;
+    color: wheat;
+    border-radius: 20px 30px 60px 80px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 40px;
+    border-radius: 50%;
+
+
+} */
+/* img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 50%;
+
+} */
+
+
